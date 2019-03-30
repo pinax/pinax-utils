@@ -7,7 +7,7 @@ setup(
     author = "Brian Rosner",
     author_email = "brosner@gmail.com",
     description = "a Pinax utility app",
-    long_description = open("README.rst").read(),
+    long_description = open("README.md").read(),
     license = "MIT",
     url = "http://github.com/pinax/pinax-utils",
     packages = find_packages(),
