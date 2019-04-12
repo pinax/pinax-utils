@@ -31,6 +31,12 @@ Django apps, themes, and starter project templates. This collection can be found
 
 ## Change Log
 
+### 1.0b1.dev3
+
+* Move documentation into README
+* Update .gitignore, MANIFEST.in, setup.py
+* Pre-release
+
 
 ## Contribute
 
